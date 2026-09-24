@@ -45,3 +45,21 @@ int main() {
     //L'objectif est de voir comment se déplacer dans une liste, ce qui aidera pour les algo à l'avenir
     return 0;
 }
+
+//L'objectif du jour est de voir les fonctions ainsi que les vecteurs
+
+int add(int a, int b) {
+        return a + b;
+    }
+
+int second_day () {
+    int a;
+    int b;
+
+    cout << "Enter number a : ";
+    cin >> a;
+    cout << "Enter number b : ";
+    cin >> b;
+
+    cout << add;
+}
